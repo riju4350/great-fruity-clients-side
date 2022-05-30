@@ -68,21 +68,3 @@ const Header = () => {
 };
 
 export default Header;
-// i'm add a commit
-
-// git init
-// git add .
-// git commit -m "first commit"
-// git branch -M main
-// git remote add origin https://github.com/ProgrammingHeroWC4/warehouse-management-client-side-riju4350.git
-// git push -u origin main
-// git init
-// git add .
-// git commit -m "first commit"
-// git branch -M main
-// git remote add origin https://github.com/riju4350/great-fruity-clients-side.git
-// git push -u origin main
-
-// git remote add origin https://github.com/ProgrammingHeroWC4/warehouse-management-client-side-riju4350.git
-// git branch -M main
-// git push -u origin main
