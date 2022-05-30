@@ -1,0 +1,22 @@
+.inputStyle {
+  height: 30px;
+  padding: 20px;
+  border: 1px solid lightgray;
+  border-radius: 3px;
+}
+.itemDetails {
+  width: 25%;
+  margin: 50px auto;
+}
+/* Smartphones (landscape) ----------- */
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+  .itemDetails {
+    width: 100%;
+    padding: 20px;
+  }
+}
+@media only screen and (min-width: 767px) and (max-width: 1024px) {
+  .itemDetails {
+    width: 50%;
+  }
+}

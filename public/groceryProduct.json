@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Kiwi",
+    "image": "https://i.ibb.co/f1QhWgd/kiwi.png",
+    "quantity": "10",
+    "price": "50",
+    "supplier_name": "adam",
+    "description": "fresh and good product"
+  },
+  {
+    "name": "Avocado",
+    "image": "https://i.ibb.co/pQV8wY8/avocado.png",
+    "quantity": "10",
+    "price": "45",
+    "supplier_name": "john",
+    "description": "fresh and good product"
+  },
+  {
+    "name": "Papaya",
+    "image": "https://i.ibb.co/G5WG6TC/papaya.png",
+    "quantity": "10",
+    "price": "55",
+    "supplier_name": "ema",
+    "description": "fresh and good product"
+  },
+  {
+    "name": "Peas",
+    "image": "https://i.ibb.co/ckPBB7T/peas.png",
+    "quantity": "10",
+    "price": "56",
+    "supplier_name": "watson",
+    "description": "fresh and good product"
+  },
+  {
+    "name": "Strawberry",
+    "image": "https://i.ibb.co/MSkGh0b/strawberry.png",
+    "quantity": "10",
+    "price": "58",
+    "supplier_name": "mike",
+    "description": "fresh and good product"
+  },
+  {
+    "name": "Cucumber",
+    "image": "https://i.ibb.co/t4WQVxX/cucumber.png",
+    "quantity": "10",
+    "price": "59",
+    "supplier_name": "adam",
+    "description": "fresh and good product"
+  },
+  {
+    "name": "Tomato",
+    "image": "https://i.ibb.co/SfbTjwR/tomato.png",
+    "quantity": "10",
+    "price": "40",
+    "supplier_name": "jonny",
+    "description": "fresh and good product"
+  },
+  {
+    "name": "Banana",
+    "image": "https://i.ibb.co/6JmMDbm/banana.png",
+    "quantity": "10",
+    "price": "20",
+    "supplier_name": "mike",
+    "description": "fresh and good product"
+  },
+  {
+    "name": "Corn",
+    "image": "https://i.ibb.co/VYyqBS7/corn.png",
+    "quantity": "10",
+    "price": "30",
+    "supplier_name": "bean",
+    "description": "fresh and good product"
+  },
+  {
+    "name": "Blue-Berry",
+    "image": "https://i.ibb.co/hWz3VxH/blue-Berry.png",
+    "quantity": "10",
+    "price": "40",
+    "supplier_name": "adam",
+    "description": "fresh and good product"
+  },
+  {
+    "name": "Broccoli",
+    "image": "https://i.ibb.co/Ws1B8sT/broccoli.png",
+    "quantity": "10",
+    "price": "50",
+    "supplier_name": "john",
+    "description": "fresh and good product"
+  },
+  {
+    "name": "Carrot",
+    "image": "https://i.ibb.co/609sGV1/carrot.png",
+    "quantity": "10",
+    "price": "50",
+    "supplier_name": "mike",
+    "description": "fresh and good product"
+  }
+]

@@ -1,0 +1,25 @@
+.offerDiv {
+  position: relative;
+  text-align: center;
+  margin-top: 3%;
+}
+
+.offerh1 {
+  font-size: 8vw;
+  color: white;
+  font-weight: 900;
+}
+.offerh4 {
+  font-size: 4vw;
+  color: white;
+  font-weight: 700;
+  line-height: 3px;
+}
+.offerImgDiv {
+  width: 100%;
+  height: auto;
+}
+.offerText {
+  position: absolute;
+  top: 10%;
+}
