@@ -23,7 +23,7 @@ const Header = () => {
             className="d-inline-block align-top me-2"
             alt="React Bootstrap logo"
           />
-          Great-Grocy
+          Great-Fruity
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav" className="text-center">

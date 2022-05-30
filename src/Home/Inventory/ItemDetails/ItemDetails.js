@@ -8,7 +8,7 @@ const ItemDetails = () => {
   const [item, setItem] = useState({});
   const { image, name, quantity, price, description, supplier_name } = item;
 
-  const [itemQuantity, setItemQuantity] = useState(15);
+  const [itemQuantity, setItemQuantity] = useState(10);
   // console.log(itemQuantity);
   useEffect(() => {
     const url = `http://localhost:5000/inventory/${id}`;

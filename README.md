@@ -1,4 +1,4 @@
-# Great Fruity
+# Great Grocy
 
 ### This website is about to store fresh fruites and vagitables. Here we count what item and how many items are added. Can delete items whice are delivered or stock out. It has good UI/UX.
 
