@@ -4,7 +4,7 @@ const useInventories = () => {
   const [items, setitems] = useState([]);
 
   useEffect(() => {
-    fetch("http://localhost:5000/inventories") //"https://thawing-mountain-91486.herokuapp.com/service"
+    fetch("http://murmuring-falls-31559.herokuapp.com/inventories") //"https://thawing-mountain-91486.herokuapp.com/service"
       //url change hobe
       .then((res) => res.json())
       .then((data) => setitems(data));

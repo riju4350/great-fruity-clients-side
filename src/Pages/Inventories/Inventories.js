@@ -8,7 +8,7 @@ import useInventories from "../../Hooks/useInventories";
 const Inventories = () => {
   const [items, setItems] = useInventories();
   // useEffect(() => {
-  //   fetch("http://localhost:5000/inventories")
+  //   fetch("http://murmuring-falls-31559.herokuapp.com/inventories")
   //     .then((res) => res.json())
   //     .then((data) => setItems(data));
   // }, []);

@@ -6,7 +6,7 @@ const AddItem = () => {
 
   const onSubmit = (data) => {
     console.log(data);
-    const url = `http://localhost:5000/inventories`;
+    const url = `http://murmuring-falls-31559.herokuapp.com/inventories`;
     // `https://thawing-mountain-91486.herokuapp.com/service`;
     fetch(url, {
       method: "POST",

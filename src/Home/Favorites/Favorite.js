@@ -10,7 +10,7 @@ const Favorite = () => {
   const favorites = items.slice(4, 8);
 
   // useEffect(() => {
-  //   fetch("http://localhost:5000/inventories")
+  //   fetch("http://murmuring-falls-31559.herokuapp.com/inventories")
   //     .then((res) => res.json())
   //     .then((data) => setItems(data));
   // }, []);
