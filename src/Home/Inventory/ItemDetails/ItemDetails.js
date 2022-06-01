@@ -11,7 +11,7 @@ const ItemDetails = () => {
   const [itemQuantity, setItemQuantity] = useState(10);
   // console.log(itemQuantity);
   useEffect(() => {
-    const url = `http://murmuring-falls-31559.herokuapp.com/inventory/${id}`;
+    const url = `https://murmuring-falls-31559.herokuapp.com/inventory/${id}`;
     fetch(url)
       .then((res) => res.json())
       .then((data) => setItem(data));
@@ -117,7 +117,7 @@ export default ItemDetails;
 //   setItemQuantity(quantity);
 
 //   useEffect(() => {
-//     const url = `http://murmuring-falls-31559.herokuapp.com/inventory/${id}`;
+//     const url = `https://murmuring-falls-31559.herokuapp.com/inventory/${id}`;
 //     fetch(url)
 //       .then((res) => res.json())
 //       .then((data) => setItem(data));

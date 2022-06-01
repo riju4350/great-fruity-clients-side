@@ -10,7 +10,7 @@ const ManageInventories = () => {
   const handleDelete = (id) => {
     const proceed = window.confirm("Are you sure?");
     if (proceed) {
-      const url = `http://murmuring-falls-31559.herokuapp.com/inventory/${id}`;
+      const url = `https://murmuring-falls-31559.herokuapp.com/inventory/${id}`;
       fetch(url, {
         method: "DELETE",
       })
